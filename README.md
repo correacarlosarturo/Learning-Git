@@ -1,2 +1,2 @@
 ## Just Learning
-Im just learning Git
+Im learning Git
